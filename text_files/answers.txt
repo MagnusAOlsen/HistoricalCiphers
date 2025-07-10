@@ -1,0 +1,4 @@
+Caesas cipher: 2 + 6 (A -> K)
+Simple substitution cipher: 1 + EHR
+Vignerere cipher: 0 + NTDJ.
+Hill cipher: 3 + (4 9 28 15)
